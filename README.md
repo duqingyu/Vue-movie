@@ -1,1 +1,1 @@
-! [image] (https://github.com/duqingyu/Vue-movie/raw/master/screenshot/1.png);
+! [image] (https://github.com/duqingyu/Vue-movie/blob/master/screenshot/1.png)
