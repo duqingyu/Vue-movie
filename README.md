@@ -23,4 +23,5 @@ npm run dev
 ``` bash
 # build for production with minification
 npm run build
-```
+
+![images](https://github.com/duqingyu/Vue-movie/blob/master/src/assets/timg.jpg)
